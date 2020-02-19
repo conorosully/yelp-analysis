@@ -3,7 +3,7 @@ A statistical analysis of the Yelp restaurant and review dataset. Done for one o
 
 <br>
 <br>
-<b> Project Paper: </b> <a href="https://github.com/conorosully/financial-product-expenditure/blob/master/OSLCON001%20final%20hand%20in%202016.pdf"> here </a>
+<b> Project Paper: </b> <a href="https://github.com/conorosully/yelp-analysis/blob/master/yelp_analysis.pdf"> yelp_analysis.pdf </a>
 <br>
 <br>
 Techniques used to conduct the analysis:
