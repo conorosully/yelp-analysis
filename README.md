@@ -6,7 +6,7 @@ Techniques used to conduct the analysis:
 <ul>
 <li> Hierarchical models and Gibbs sampling
 <li> Logistic regression
-<li> Gaussian Mixture Model
+<li> Gaussian Mixture Models
 </ul>
 <br>
 <br>
